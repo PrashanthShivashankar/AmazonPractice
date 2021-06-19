@@ -47,6 +47,7 @@ public BaseClass()
 
 /*
  * webDriverIntialization function is used to intialize the webdriver 
+ * Initialize
  */
 public void webDriverIntialization()
 {
