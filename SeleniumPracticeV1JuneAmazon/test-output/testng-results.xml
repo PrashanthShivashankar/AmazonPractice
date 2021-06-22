@@ -1,36 +1,77 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="30444" started-at="2021-06-19T07:50:08Z" finished-at="2021-06-19T07:50:39Z">
+  <suite name="Default suite" duration-ms="51836" started-at="2021-06-22T04:32:04Z" finished-at="2021-06-22T04:32:55Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="30444" started-at="2021-06-19T07:50:08Z" finished-at="2021-06-19T07:50:39Z">
+    <test name="Default test" duration-ms="51836" started-at="2021-06-22T04:32:04Z" finished-at="2021-06-22T04:32:55Z">
       <class name="com.amazon.qa.testcases.LoginPageFunctionalityTest">
-        <test-method status="PASS" signature="setUpDriver()[pri:0, instance:com.amazon.qa.testcases.LoginPageFunctionalityTest@6483f5ae]" name="setUpDriver" is-config="true" duration-ms="8326" started-at="2021-06-19T07:50:08Z" finished-at="2021-06-19T07:50:16Z">
+        <test-method status="PASS" signature="beforetest()[pri:0, instance:com.amazon.qa.testcases.LoginPageFunctionalityTest@3aeaafa6]" name="beforetest" is-config="true" duration-ms="188" started-at="2021-06-22T04:32:04Z" finished-at="2021-06-22T04:32:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforetest -->
+        <test-method status="PASS" signature="setUpDriver()[pri:0, instance:com.amazon.qa.testcases.LoginPageFunctionalityTest@3aeaafa6]" name="setUpDriver" is-config="true" duration-ms="9478" started-at="2021-06-22T04:32:04Z" finished-at="2021-06-22T04:32:13Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUpDriver -->
-        <test-method status="PASS" signature="homePageTitlle()[pri:1, instance:com.amazon.qa.testcases.LoginPageFunctionalityTest@6483f5ae]" name="homePageTitlle" duration-ms="37" started-at="2021-06-19T07:50:16Z" finished-at="2021-06-19T07:50:16Z">
+        <test-method status="PASS" signature="homePageTitlle()[pri:1, instance:com.amazon.qa.testcases.LoginPageFunctionalityTest@3aeaafa6]" name="homePageTitlle" duration-ms="90" started-at="2021-06-22T04:32:13Z" finished-at="2021-06-22T04:32:13Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- homePageTitlle -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.amazon.qa.testcases.LoginPageFunctionalityTest@6483f5ae]" name="tearDown" is-config="true" duration-ms="4132" started-at="2021-06-19T07:50:16Z" finished-at="2021-06-19T07:50:21Z">
+        <test-method status="PASS" signature="tearDown(org.testng.ITestResult)[pri:0, instance:com.amazon.qa.testcases.LoginPageFunctionalityTest@3aeaafa6]" name="tearDown" is-config="true" duration-ms="745" started-at="2021-06-22T04:32:13Z" finished-at="2021-06-22T04:32:14Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=homePageTitlle status=SUCCESS method=LoginPageFunctionalityTest.homePageTitlle()[pri:1, instance:com.amazon.qa.testcases.LoginPageFunctionalityTest@3aeaafa6] output={null}]]]>
+              </value>
+            </param>
+          </params>
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
-        <test-method status="PASS" signature="setUpDriver()[pri:0, instance:com.amazon.qa.testcases.LoginPageFunctionalityTest@6483f5ae]" name="setUpDriver" is-config="true" duration-ms="7819" started-at="2021-06-19T07:50:21Z" finished-at="2021-06-19T07:50:28Z">
+        <test-method status="PASS" signature="setUpDriver()[pri:0, instance:com.amazon.qa.testcases.LoginPageFunctionalityTest@3aeaafa6]" name="setUpDriver" is-config="true" duration-ms="11491" started-at="2021-06-22T04:32:14Z" finished-at="2021-06-22T04:32:26Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUpDriver -->
-        <test-method status="PASS" signature="verifySignIn()[pri:2, instance:com.amazon.qa.testcases.LoginPageFunctionalityTest@6483f5ae]" name="verifySignIn" duration-ms="5968" started-at="2021-06-19T07:50:28Z" finished-at="2021-06-19T07:50:34Z">
+        <test-method status="PASS" signature="verifySignIn()[pri:2, instance:com.amazon.qa.testcases.LoginPageFunctionalityTest@3aeaafa6]" name="verifySignIn" duration-ms="5661" started-at="2021-06-22T04:32:26Z" depends-on-methods="com.amazon.qa.testcases.LoginPageFunctionalityTest.homePageTitlle" finished-at="2021-06-22T04:32:31Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- verifySignIn -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.amazon.qa.testcases.LoginPageFunctionalityTest@6483f5ae]" name="tearDown" is-config="true" duration-ms="4145" started-at="2021-06-19T07:50:34Z" finished-at="2021-06-19T07:50:39Z">
+        <test-method status="PASS" signature="tearDown(org.testng.ITestResult)[pri:0, instance:com.amazon.qa.testcases.LoginPageFunctionalityTest@3aeaafa6]" name="tearDown" is-config="true" duration-ms="803" started-at="2021-06-22T04:32:31Z" finished-at="2021-06-22T04:32:32Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=verifySignIn status=SUCCESS method=LoginPageFunctionalityTest.verifySignIn()[pri:2, instance:com.amazon.qa.testcases.LoginPageFunctionalityTest@3aeaafa6] output={null}]]]>
+              </value>
+            </param>
+          </params>
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUpDriver()[pri:0, instance:com.amazon.qa.testcases.LoginPageFunctionalityTest@3aeaafa6]" name="setUpDriver" is-config="true" duration-ms="7493" started-at="2021-06-22T04:32:32Z" finished-at="2021-06-22T04:32:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpDriver -->
+        <test-method status="PASS" signature="selectItem()[pri:3, instance:com.amazon.qa.testcases.LoginPageFunctionalityTest@3aeaafa6]" name="selectItem" duration-ms="14845" started-at="2021-06-22T04:32:40Z" depends-on-methods="com.amazon.qa.testcases.LoginPageFunctionalityTest.verifySignIn" finished-at="2021-06-22T04:32:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- selectItem -->
+        <test-method status="PASS" signature="tearDown(org.testng.ITestResult)[pri:0, instance:com.amazon.qa.testcases.LoginPageFunctionalityTest@3aeaafa6]" name="tearDown" is-config="true" duration-ms="789" started-at="2021-06-22T04:32:54Z" finished-at="2021-06-22T04:32:55Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=selectItem status=SUCCESS method=LoginPageFunctionalityTest.selectItem()[pri:3, instance:com.amazon.qa.testcases.LoginPageFunctionalityTest@3aeaafa6] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="aftertest()[pri:0, instance:com.amazon.qa.testcases.LoginPageFunctionalityTest@3aeaafa6]" name="aftertest" is-config="true" duration-ms="234" started-at="2021-06-22T04:32:55Z" finished-at="2021-06-22T04:32:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftertest -->
       </class> <!-- com.amazon.qa.testcases.LoginPageFunctionalityTest -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->

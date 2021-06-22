@@ -11,3 +11,276 @@
 2021-06-19 13:21:54,234 [main] INFO LogFileGeneration - Starting Application
 2021-06-19 13:21:54,236 [main] INFO LogFileGeneration - verify signIn functinality testcase
 2021-06-19 13:21:59,560 [main] INFO LogFileGeneration - Sign in functinality verified 
+2021-06-19 21:58:38,155 [main] INFO LogFileGeneration - Starting Application
+2021-06-19 21:58:39,231 [main] INFO LogFileGeneration - Title verified sucessfully
+2021-06-19 22:00:21,936 [main] INFO LogFileGeneration - Starting Application
+2021-06-19 22:00:22,392 [main] INFO LogFileGeneration - Title verified sucessfully
+2021-06-19 22:00:40,014 [main] INFO LogFileGeneration - Starting Application
+2021-06-19 22:00:40,014 [main] INFO LogFileGeneration - verify signIn functinality testcase
+2021-06-19 22:00:49,412 [main] INFO LogFileGeneration - Sign in functinality verified 
+2021-06-19 22:01:06,317 [main] INFO LogFileGeneration - Starting Application
+2021-06-19 22:01:06,317 [main] INFO LogFileGeneration - Verify items price list
+2021-06-19 22:13:21,434 [main] INFO LogFileGeneration - Starting Application
+2021-06-19 22:13:21,618 [main] INFO LogFileGeneration - Title verified sucessfully
+2021-06-19 22:13:33,722 [main] INFO LogFileGeneration - Starting Application
+2021-06-19 22:13:33,722 [main] INFO LogFileGeneration - verify signIn functinality testcase
+2021-06-19 22:13:41,932 [main] INFO LogFileGeneration - Sign in functinality verified 
+2021-06-19 22:14:01,893 [main] INFO LogFileGeneration - Starting Application
+2021-06-19 22:14:01,893 [main] INFO LogFileGeneration - Verify items price list
+2021-06-19 22:14:01,899 [main] INFO LogFileGeneration - verify signIn functinality testcase
+2021-06-19 22:14:10,435 [main] INFO LogFileGeneration - Sign in functinality verified 
+2021-06-19 22:16:02,730 [main] INFO LogFileGeneration - Starting Application
+2021-06-19 22:16:02,920 [main] INFO LogFileGeneration - Title verified sucessfully
+2021-06-19 22:16:17,342 [main] INFO LogFileGeneration - Starting Application
+2021-06-19 22:16:17,342 [main] INFO LogFileGeneration - verify signIn functinality testcase
+2021-06-19 22:16:25,117 [main] INFO LogFileGeneration - Sign in functinality verified 
+2021-06-19 22:16:44,451 [main] INFO LogFileGeneration - Starting Application
+2021-06-19 22:16:44,451 [main] INFO LogFileGeneration - Verify items price list
+2021-06-19 22:18:35,124 [main] INFO LogFileGeneration - Starting Application
+2021-06-19 22:18:35,240 [main] INFO LogFileGeneration - Title verified sucessfully
+2021-06-19 22:18:51,539 [main] INFO LogFileGeneration - Starting Application
+2021-06-19 22:18:51,539 [main] INFO LogFileGeneration - verify signIn functinality testcase
+2021-06-19 22:18:58,469 [main] INFO LogFileGeneration - Sign in functinality verified 
+2021-06-19 22:19:13,721 [main] INFO LogFileGeneration - Starting Application
+2021-06-19 22:19:13,721 [main] INFO LogFileGeneration - Verify items price list
+2021-06-19 22:20:33,195 [main] INFO LogFileGeneration - Starting Application
+2021-06-19 22:20:33,348 [main] INFO LogFileGeneration - Title verified sucessfully
+2021-06-19 22:20:49,024 [main] INFO LogFileGeneration - Starting Application
+2021-06-19 22:20:49,024 [main] INFO LogFileGeneration - verify signIn functinality testcase
+2021-06-19 22:20:57,599 [main] INFO LogFileGeneration - Sign in functinality verified 
+2021-06-19 22:21:09,740 [main] INFO LogFileGeneration - Starting Application
+2021-06-19 22:21:09,740 [main] INFO LogFileGeneration - Verify items price list
+2021-06-20 17:42:35,163 [main] INFO LogFileGeneration - Starting Application
+2021-06-20 17:42:35,521 [main] INFO LogFileGeneration - Title verified sucessfully
+2021-06-20 17:44:20,493 [main] INFO LogFileGeneration - Starting Application
+2021-06-20 17:44:20,598 [main] INFO LogFileGeneration - Title verified sucessfully
+2021-06-20 17:44:48,830 [main] INFO LogFileGeneration - Starting Application
+2021-06-20 17:44:48,831 [main] INFO LogFileGeneration - verify signIn functinality testcase
+2021-06-20 17:46:37,148 [main] INFO LogFileGeneration - Starting Application
+2021-06-20 17:46:37,206 [main] INFO LogFileGeneration - Title verified sucessfully
+2021-06-20 17:46:59,558 [main] INFO LogFileGeneration - Starting Application
+2021-06-20 17:46:59,559 [main] INFO LogFileGeneration - verify signIn functinality testcase
+2021-06-20 17:57:53,671 [main] INFO LogFileGeneration - Starting Application
+2021-06-20 17:57:53,731 [main] INFO LogFileGeneration - Title verified sucessfully
+2021-06-20 17:58:17,752 [main] INFO LogFileGeneration - Starting Application
+2021-06-20 17:58:17,753 [main] INFO LogFileGeneration - verify signIn functinality testcase
+2021-06-20 17:59:43,488 [main] INFO LogFileGeneration - Starting Application
+2021-06-20 17:59:43,635 [main] INFO LogFileGeneration - Title verified sucessfully
+2021-06-20 18:00:13,243 [main] INFO LogFileGeneration - Starting Application
+2021-06-20 18:00:13,244 [main] INFO LogFileGeneration - verify signIn functinality testcase
+2021-06-20 18:02:54,403 [main] INFO LogFileGeneration - Starting Application
+2021-06-20 18:02:54,452 [main] INFO LogFileGeneration - Title verified sucessfully
+2021-06-20 18:03:18,145 [main] INFO LogFileGeneration - Starting Application
+2021-06-20 18:03:18,146 [main] INFO LogFileGeneration - verify signIn functinality testcase
+2021-06-20 18:04:48,060 [main] INFO LogFileGeneration - Starting Application
+2021-06-20 18:04:48,109 [main] INFO LogFileGeneration - Title verified sucessfully
+2021-06-20 18:05:13,407 [main] INFO LogFileGeneration - Starting Application
+2021-06-20 18:05:13,409 [main] INFO LogFileGeneration - verify signIn functinality testcase
+2021-06-20 18:07:53,968 [main] INFO LogFileGeneration - Starting Application
+2021-06-20 18:07:53,980 [main] INFO LogFileGeneration - verify signIn functinality testcase
+2021-06-20 18:08:41,812 [main] INFO LogFileGeneration - Sign in functinality verified 
+2021-06-20 18:09:11,875 [main] INFO LogFileGeneration - Starting Application
+2021-06-20 18:09:11,885 [main] INFO LogFileGeneration - verify signIn functinality testcase
+2021-06-20 18:17:56,253 [main] INFO LogFileGeneration - Starting Application
+2021-06-20 18:17:57,000 [main] INFO LogFileGeneration - Title verified sucessfully
+2021-06-20 18:18:27,707 [main] INFO LogFileGeneration - Starting Application
+2021-06-20 18:18:27,709 [main] INFO LogFileGeneration - verify signIn functinality testcase
+2021-06-20 18:19:16,103 [main] INFO LogFileGeneration - Sign in functinality verified 
+2021-06-20 18:19:35,528 [main] INFO LogFileGeneration - Starting Application
+2021-06-20 18:19:35,529 [main] INFO LogFileGeneration - Verify items price list
+2021-06-20 18:24:47,292 [main] INFO LogFileGeneration - Starting Application
+2021-06-20 18:24:47,346 [main] INFO LogFileGeneration - Title verified sucessfully
+2021-06-20 18:25:12,768 [main] INFO LogFileGeneration - Starting Application
+2021-06-20 18:25:12,769 [main] INFO LogFileGeneration - verify signIn functinality testcase
+2021-06-20 18:26:00,315 [main] INFO LogFileGeneration - Sign in functinality verified 
+2021-06-20 18:26:18,369 [main] INFO LogFileGeneration - Starting Application
+2021-06-20 18:26:18,370 [main] INFO LogFileGeneration - Verify items price list
+2021-06-20 18:28:47,920 [main] INFO LogFileGeneration - Starting Application
+2021-06-20 18:28:48,009 [main] INFO LogFileGeneration - Title verified sucessfully
+2021-06-20 21:08:28,504 [main] INFO LogFileGeneration - Starting Application
+2021-06-20 21:08:28,690 [main] INFO LogFileGeneration - Title verified sucessfully
+2021-06-20 21:08:42,797 [main] INFO LogFileGeneration - Starting Application
+2021-06-20 21:08:42,806 [main] INFO LogFileGeneration - verify signIn functinality testcase
+2021-06-20 21:08:50,155 [main] INFO LogFileGeneration - Sign in functinality verified 
+2021-06-20 21:09:02,810 [main] INFO LogFileGeneration - Starting Application
+2021-06-20 21:09:02,816 [main] INFO LogFileGeneration - Verify items price list
+2021-06-20 21:15:22,706 [main] INFO LogFileGeneration - Starting Application
+2021-06-20 21:15:23,122 [main] INFO LogFileGeneration - Title verified sucessfully
+2021-06-20 21:17:19,549 [main] INFO LogFileGeneration - Starting Application
+2021-06-20 21:17:19,715 [main] INFO LogFileGeneration - Title verified sucessfully
+2021-06-20 21:17:34,206 [main] INFO LogFileGeneration - Starting Application
+2021-06-20 21:17:34,209 [main] INFO LogFileGeneration - verify signIn functinality testcase
+2021-06-20 21:17:41,792 [main] INFO LogFileGeneration - Sign in functinality verified 
+2021-06-20 21:17:55,505 [main] INFO LogFileGeneration - Starting Application
+2021-06-20 21:17:55,511 [main] INFO LogFileGeneration - Verify items price list
+2021-06-20 21:23:27,068 [main] INFO LogFileGeneration - Starting Application
+2021-06-20 21:23:27,423 [main] INFO LogFileGeneration - Title verified sucessfully
+2021-06-20 21:23:45,664 [main] INFO LogFileGeneration - Starting Application
+2021-06-20 21:23:45,670 [main] INFO LogFileGeneration - verify signIn functinality testcase
+2021-06-20 21:23:52,944 [main] INFO LogFileGeneration - Sign in functinality verified 
+2021-06-20 21:24:05,497 [main] INFO LogFileGeneration - Starting Application
+2021-06-20 21:24:05,503 [main] INFO LogFileGeneration - Verify items price list
+2021-06-20 21:27:14,675 [main] INFO LogFileGeneration - Starting Application
+2021-06-20 21:27:14,964 [main] INFO LogFileGeneration - Title verified sucessfully
+2021-06-20 21:27:33,090 [main] INFO LogFileGeneration - Starting Application
+2021-06-20 21:27:33,099 [main] INFO LogFileGeneration - verify signIn functinality testcase
+2021-06-20 21:27:40,717 [main] INFO LogFileGeneration - Sign in functinality verified 
+2021-06-20 21:27:54,975 [main] INFO LogFileGeneration - Starting Application
+2021-06-20 21:27:54,983 [main] INFO LogFileGeneration - Verify items price list
+2021-06-20 21:44:03,243 [main] INFO LogFileGeneration - Starting Application
+2021-06-20 21:44:04,649 [main] INFO LogFileGeneration - Title verified sucessfully
+2021-06-20 21:44:39,830 [main] INFO LogFileGeneration - Starting Application
+2021-06-20 21:44:39,830 [main] INFO LogFileGeneration - verify signIn functinality testcase
+2021-06-20 21:45:43,583 [main] INFO LogFileGeneration - Starting Application
+2021-06-20 21:45:43,760 [main] INFO LogFileGeneration - Title verified sucessfully
+2021-06-20 21:46:06,566 [main] INFO LogFileGeneration - Starting Application
+2021-06-20 21:46:06,574 [main] INFO LogFileGeneration - verify signIn functinality testcase
+2021-06-20 21:46:49,131 [main] INFO LogFileGeneration - Sign in functinality verified 
+2021-06-20 21:47:04,556 [main] INFO LogFileGeneration - Starting Application
+2021-06-20 21:47:04,562 [main] INFO LogFileGeneration - Verify items price list
+2021-06-20 21:50:19,701 [main] INFO LogFileGeneration - Starting Application
+2021-06-20 21:50:19,864 [main] INFO LogFileGeneration - Title verified sucessfully
+2021-06-20 21:50:47,481 [main] INFO LogFileGeneration - Starting Application
+2021-06-20 21:50:47,484 [main] INFO LogFileGeneration - verify signIn functinality testcase
+2021-06-21 19:39:53,283 [main] INFO LogFileGeneration - Starting Application
+2021-06-21 19:39:53,839 [main] INFO LogFileGeneration - Title verified sucessfully
+2021-06-21 19:40:12,700 [main] INFO LogFileGeneration - Starting Application
+2021-06-21 19:40:12,703 [main] INFO LogFileGeneration - verify signIn functinality testcase
+2021-06-21 19:40:20,928 [main] INFO LogFileGeneration - Sign in functinality verified 
+2021-06-21 19:40:39,608 [main] INFO LogFileGeneration - Starting Application
+2021-06-21 19:40:39,611 [main] INFO LogFileGeneration - Verify items price list
+2021-06-21 19:47:26,497 [main] INFO LogFileGeneration - Starting Application
+2021-06-21 19:47:26,838 [main] INFO LogFileGeneration - Title verified sucessfully
+2021-06-21 19:47:35,041 [main] INFO LogFileGeneration - Starting Application
+2021-06-21 19:47:35,044 [main] INFO LogFileGeneration - verify signIn functinality testcase
+2021-06-21 19:47:41,455 [main] INFO LogFileGeneration - Sign in functinality verified 
+2021-06-21 19:47:50,744 [main] INFO LogFileGeneration - Starting Application
+2021-06-21 19:47:50,747 [main] INFO LogFileGeneration - Verify items price list
+2021-06-21 19:54:01,269 [main] INFO LogFileGeneration - Starting Application
+2021-06-21 19:54:01,462 [main] INFO LogFileGeneration - Title verified sucessfully
+2021-06-21 19:54:15,058 [main] INFO LogFileGeneration - Starting Application
+2021-06-21 19:54:15,061 [main] INFO LogFileGeneration - verify signIn functinality testcase
+2021-06-21 19:54:22,205 [main] INFO LogFileGeneration - Sign in functinality verified 
+2021-06-21 19:54:35,278 [main] INFO LogFileGeneration - Starting Application
+2021-06-21 19:54:35,281 [main] INFO LogFileGeneration - Verify items price list
+2021-06-21 19:56:57,873 [main] INFO LogFileGeneration - Starting Application
+2021-06-21 19:56:57,896 [main] INFO LogFileGeneration - Verify items price list
+2021-06-21 19:57:15,333 [main] INFO LogFileGeneration - Validation sucessfull
+2021-06-21 19:58:06,560 [main] INFO LogFileGeneration - Starting Application
+2021-06-21 19:58:06,580 [main] INFO LogFileGeneration - Verify items price list
+2021-06-21 20:08:51,995 [main] INFO LogFileGeneration - Starting Application
+2021-06-21 20:08:52,008 [main] INFO LogFileGeneration - Verify items price list
+2021-06-21 20:09:54,662 [main] INFO LogFileGeneration - Starting Application
+2021-06-21 20:09:54,679 [main] INFO LogFileGeneration - Verify items price list
+2021-06-21 20:11:30,056 [main] INFO LogFileGeneration - Starting Application
+2021-06-21 20:11:30,073 [main] INFO LogFileGeneration - Verify items price list
+2021-06-21 20:12:56,480 [main] INFO LogFileGeneration - Starting Application
+2021-06-21 20:12:56,491 [main] INFO LogFileGeneration - Verify items price list
+2021-06-21 20:13:14,235 [main] INFO LogFileGeneration - Validation sucessfull
+2021-06-21 20:16:18,085 [main] INFO LogFileGeneration - Starting Application
+2021-06-21 20:16:18,104 [main] INFO LogFileGeneration - Verify items price list
+2021-06-21 20:17:31,841 [main] INFO LogFileGeneration - Starting Application
+2021-06-21 20:17:46,830 [main] INFO LogFileGeneration - Verify items price list
+2021-06-21 20:21:21,972 [main] INFO LogFileGeneration - Starting Application
+2021-06-21 20:21:21,989 [main] INFO LogFileGeneration - Verify items price list
+2021-06-21 20:24:34,682 [main] INFO LogFileGeneration - Starting Application
+2021-06-21 20:24:38,566 [main] INFO LogFileGeneration - Verify items price list
+2021-06-21 20:29:50,194 [main] INFO LogFileGeneration - Starting Application
+2021-06-21 20:29:53,882 [main] INFO LogFileGeneration - Verify items price list
+2021-06-21 20:34:38,695 [main] INFO LogFileGeneration - Starting Application
+2021-06-21 20:34:38,713 [main] INFO LogFileGeneration - Verify items price list
+2021-06-21 20:37:28,629 [main] INFO LogFileGeneration - Starting Application
+2021-06-21 20:37:31,435 [main] INFO LogFileGeneration - Verify items price list
+2021-06-21 20:53:50,244 [main] INFO LogFileGeneration - Starting Application
+2021-06-21 20:53:50,261 [main] INFO LogFileGeneration - Verify items price list
+2021-06-21 20:54:01,575 [main] INFO LogFileGeneration - Validation sucessfull
+2021-06-21 20:58:29,686 [main] INFO LogFileGeneration - Starting Application
+2021-06-21 20:58:29,703 [main] INFO LogFileGeneration - Verify items price list
+2021-06-21 21:00:56,674 [main] INFO LogFileGeneration - Starting Application
+2021-06-21 21:00:56,761 [main] INFO LogFileGeneration - Verify items price list
+2021-06-21 21:03:43,942 [main] INFO LogFileGeneration - Starting Application
+2021-06-21 21:18:47,887 [main] INFO LogFileGeneration - Starting Application
+2021-06-21 21:19:01,750 [main] INFO LogFileGeneration - Verify items price list
+2021-06-21 21:20:18,336 [main] INFO LogFileGeneration - Validation sucessfull
+2021-06-21 21:26:39,451 [main] INFO LogFileGeneration - Starting Application
+2021-06-21 21:26:39,469 [main] INFO LogFileGeneration - Verify items price list
+2021-06-21 21:27:13,429 [main] INFO LogFileGeneration - Validation sucessfull
+2021-06-21 21:35:40,364 [main] INFO LogFileGeneration - Starting Application
+2021-06-21 21:35:40,697 [main] INFO LogFileGeneration - Title verified sucessfully
+2021-06-21 21:36:02,448 [main] INFO LogFileGeneration - Starting Application
+2021-06-21 21:36:02,450 [main] INFO LogFileGeneration - Verify items price list
+2021-06-21 21:36:30,896 [main] INFO LogFileGeneration - Validation sucessfull
+2021-06-21 21:36:51,098 [main] INFO LogFileGeneration - Starting Application
+2021-06-21 21:36:51,103 [main] INFO LogFileGeneration - verify signIn functinality testcase
+2021-06-21 21:37:04,083 [main] INFO LogFileGeneration - Sign in functinality verified 
+2021-06-21 21:38:42,195 [main] INFO LogFileGeneration - Starting Application
+2021-06-21 21:38:42,603 [main] INFO LogFileGeneration - Title verified sucessfully
+2021-06-21 21:39:00,176 [main] INFO LogFileGeneration - Starting Application
+2021-06-21 21:39:00,184 [main] INFO LogFileGeneration - Verify items price list
+2021-06-21 21:39:25,568 [main] INFO LogFileGeneration - Validation sucessfull
+2021-06-21 21:39:49,251 [main] INFO LogFileGeneration - Starting Application
+2021-06-21 21:39:49,255 [main] INFO LogFileGeneration - verify signIn functinality testcase
+2021-06-21 21:40:00,936 [main] INFO LogFileGeneration - Sign in functinality verified 
+2021-06-21 21:45:47,674 [main] INFO LogFileGeneration - Starting Application
+2021-06-21 21:45:47,956 [main] INFO LogFileGeneration - Title verified sucessfully
+2021-06-21 21:46:02,421 [main] INFO LogFileGeneration - Starting Application
+2021-06-21 21:46:02,422 [main] INFO LogFileGeneration - verify signIn functinality testcase
+2021-06-21 21:46:12,239 [main] INFO LogFileGeneration - Sign in functinality verified 
+2021-06-21 21:46:25,006 [main] INFO LogFileGeneration - Starting Application
+2021-06-21 21:46:25,007 [main] INFO LogFileGeneration - Verify items price list
+2021-06-21 21:46:49,781 [main] INFO LogFileGeneration - Validation sucessfull
+2021-06-21 21:50:09,004 [main] INFO LogFileGeneration - Starting Application
+2021-06-21 21:50:09,347 [main] INFO LogFileGeneration - Title verified sucessfully
+2021-06-21 21:50:26,123 [main] INFO LogFileGeneration - Starting Application
+2021-06-21 21:50:26,127 [main] INFO LogFileGeneration - verify signIn functinality testcase
+2021-06-21 21:50:35,374 [main] INFO LogFileGeneration - Sign in functinality verified 
+2021-06-21 21:50:57,820 [main] INFO LogFileGeneration - Starting Application
+2021-06-21 21:50:57,824 [main] INFO LogFileGeneration - Verify items price list
+2021-06-21 21:51:23,093 [main] INFO LogFileGeneration - Validation sucessfull
+2021-06-21 21:54:58,939 [main] INFO LogFileGeneration - Starting Application
+2021-06-21 21:54:59,126 [main] INFO LogFileGeneration - Title verified sucessfully
+2021-06-21 21:55:20,647 [main] INFO LogFileGeneration - Starting Application
+2021-06-21 21:55:20,650 [main] INFO LogFileGeneration - verify signIn functinality testcase
+2021-06-21 21:55:38,589 [main] INFO LogFileGeneration - Sign in functinality verified 
+2021-06-22 08:55:35,685 [main] INFO LogFileGeneration - Starting Application
+2021-06-22 08:55:48,894 [main] INFO LogFileGeneration - Starting Application
+2021-06-22 08:55:48,896 [main] INFO LogFileGeneration - verify signIn functinality testcase
+2021-06-22 08:56:23,293 [main] INFO LogFileGeneration - Starting Application
+2021-06-22 08:56:23,294 [main] INFO LogFileGeneration - Verify items price list
+2021-06-22 08:56:39,459 [main] INFO LogFileGeneration - Validation sucessfull
+2021-06-22 09:09:56,973 [main] INFO LogFileGeneration - Starting Application
+2021-06-22 09:10:08,475 [main] INFO LogFileGeneration - Starting Application
+2021-06-22 09:10:08,478 [main] INFO LogFileGeneration - verify signIn functinality testcase
+2021-06-22 09:10:25,383 [main] INFO LogFileGeneration - Starting Application
+2021-06-22 09:10:25,385 [main] INFO LogFileGeneration - Verify items price list
+2021-06-22 09:10:40,822 [main] INFO LogFileGeneration - Validation sucessfull
+2021-06-22 09:15:06,258 [main] INFO LogFileGeneration - Starting Application
+2021-06-22 09:15:14,946 [main] INFO LogFileGeneration - Starting Application
+2021-06-22 09:15:14,948 [main] INFO LogFileGeneration - verify signIn functinality testcase
+2021-06-22 09:15:26,302 [main] INFO LogFileGeneration - Starting Application
+2021-06-22 09:15:26,304 [main] INFO LogFileGeneration - Verify items price list
+2021-06-22 09:15:41,521 [main] INFO LogFileGeneration - Validation sucessfull
+2021-06-22 09:19:34,526 [main] INFO LogFileGeneration - Starting Application
+2021-06-22 09:19:43,164 [main] INFO LogFileGeneration - Starting Application
+2021-06-22 09:19:43,166 [main] INFO LogFileGeneration - verify signIn functinality testcase
+2021-06-22 09:19:58,222 [main] INFO LogFileGeneration - Starting Application
+2021-06-22 09:19:58,224 [main] INFO LogFileGeneration - Verify items price list
+2021-06-22 09:20:14,094 [main] INFO LogFileGeneration - Validation sucessfull
+2021-06-22 09:42:23,687 [main] INFO LogFileGeneration - Starting Application
+2021-06-22 09:42:38,895 [main] INFO LogFileGeneration - Starting Application
+2021-06-22 09:42:38,896 [main] INFO LogFileGeneration - verify signIn functinality testcase
+2021-06-22 09:42:53,723 [main] INFO LogFileGeneration - Starting Application
+2021-06-22 09:42:53,725 [main] INFO LogFileGeneration - Verify items price list
+2021-06-22 09:43:08,368 [main] INFO LogFileGeneration - Validation sucessfull
+2021-06-22 09:54:14,527 [main] INFO LogFileGeneration - Starting Application
+2021-06-22 09:54:20,994 [main] INFO LogFileGeneration - Starting Application
+2021-06-22 09:54:20,996 [main] INFO LogFileGeneration - verify signIn functinality testcase
+2021-06-22 09:54:34,867 [main] INFO LogFileGeneration - Starting Application
+2021-06-22 09:54:34,869 [main] INFO LogFileGeneration - Verify items price list
+2021-06-22 09:54:49,229 [main] INFO LogFileGeneration - Validation sucessfull
+2021-06-22 10:02:13,759 [main] INFO LogFileGeneration - Starting Application
+2021-06-22 10:02:26,119 [main] INFO LogFileGeneration - Starting Application
+2021-06-22 10:02:26,120 [main] INFO LogFileGeneration - verify signIn functinality testcase
+2021-06-22 10:02:40,077 [main] INFO LogFileGeneration - Starting Application
+2021-06-22 10:02:40,079 [main] INFO LogFileGeneration - Verify items price list
+2021-06-22 10:02:54,878 [main] INFO LogFileGeneration - Validation sucessfull

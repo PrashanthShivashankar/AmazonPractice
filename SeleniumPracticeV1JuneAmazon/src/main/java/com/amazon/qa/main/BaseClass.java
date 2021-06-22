@@ -8,6 +8,7 @@ import java.util.concurrent.TimeUnit;
 
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
+import org.openqa.selenium.chrome.ChromeOptions;
 import org.openqa.selenium.firefox.FirefoxDriver;
 
 /*
@@ -51,10 +52,15 @@ public BaseClass()
  */
 public void webDriverIntialization()
 {
+	ChromeOptions options=new ChromeOptions();
+	options.addArguments("enable-automation");
+	options.addArguments("start-maximized");
+	//options.addArguments("--headless");
+	//options.addArguments("--window-size=1920,1080"); 
 	if(prop.getProperty("browser").equalsIgnoreCase("chrome"))
 	{
 		System.setProperty("webdriver.chrome.driver", "F:\\Salenium- Leaaring-Software\\chromedriver.exe");
-		driver=new ChromeDriver();
+		driver=new ChromeDriver(options);
 		
 	}
 	else if(prop.getProperty("browser").equalsIgnoreCase("firefox"))
@@ -63,10 +69,10 @@ public void webDriverIntialization()
 		driver=new FirefoxDriver();
 		
 	}
-	driver.manage().window().maximize();
+
 	driver.manage().deleteAllCookies();
 	driver.manage().timeouts().pageLoadTimeout(20, TimeUnit.SECONDS);
-	driver.manage().timeouts().implicitlyWait(3, TimeUnit.SECONDS);
+	driver.manage().timeouts().implicitlyWait(20, TimeUnit.SECONDS);
 	driver.get(prop.getProperty("url"));
 }
 	

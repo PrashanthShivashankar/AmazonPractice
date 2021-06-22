@@ -5,8 +5,7 @@
     <classes>
       <class name="com.amazon.qa.testcases.LoginPageFunctionalityTest">
         <methods>
-          <include name="verifySignIn"/>
-          <include name="homePageTitlle"/>
+          <include name="selectItem"/>
           <include name="setUpDriver"/>
           <include name="tearDown"/>
         </methods>
